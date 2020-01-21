@@ -1,6 +1,6 @@
 .DS_Store
 *.pyc
-blockchain.txt
-wallet.txt
+*.txt
 .vscode/launch.json
 .vscode/settings.json
+
